@@ -93,7 +93,7 @@
     "@aws-cdk/lambda-layer-kubectl-v31": "^2.0.0",
     "@types/jest": "^29.5.1",
     "aws-sdk": "^2.1379.0",
-    "aws-cdk-lib": "0.0.0",
+    "aws-cdk-lib": "2.177.0",
     "constructs": "^10.0.0",
     "sinon": "^9.2.4",
     "cdk8s": "2.69.10",
